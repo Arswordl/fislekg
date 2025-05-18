@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>leakg Subscription</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f3f3;
+        }
+        .container {
+            margin-top: 50px;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 10px;
+        }
+        .header-image {
+            width: 100%;
+            height: auto; /* Ensures the image maintains its aspect ratio */
+            max-width: 300px; /* Limits maximum width for larger screens */
+            margin: 0 auto 20px;
+            display: block;
+        }
+        .title {
+            font-size: 32px;
+            font-weight: bold;
+            color: #ff4081;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 18px;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        .subscribe-button {
+            background-color: #ff4081;
+            color: white;
+            padding: 15px 30px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .subscribe-button:hover {
+            background-color: #e6366d;
+        }
+    </style>
+</head>
+<body>
+        <h1 class="title">leakg group</h1>
+        <p class="subtitle">Subscribe to join leakg 18+ only. Click the link below to subscribe.</p>
+        <p class="subtitle">Subscribe with N2,950 to get added instantly.</p>
+        <a href="smallroompayment" class="subscribe-button">Pay Now to Join Members</a>
+    </div>
+</body>
+</html>
